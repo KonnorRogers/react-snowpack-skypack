@@ -1,5 +1,5 @@
-import React from 'https://cdn.skypack.dev/react@^16.13.1';
-import ReactDOM from 'https://cdn.skypack.dev/react-dom@^16.13.1';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 const App = () => {
   return(
