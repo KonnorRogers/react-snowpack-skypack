@@ -14,6 +14,8 @@ yarn install
 
 `yarn dev`
 
+And then navigate to `localhost:8080` in your browser
+
 ## Building
 
 `yarn build`
